@@ -5,8 +5,7 @@ import java.util.Arrays;
 public class BinaryDizi {
 
 	public static void main(String[] args) {
-		// Dizi içerisindeki enbüyük elemmaný
-		// 
+		// Dizideki en büyük sayýyý binary yöntem ile  bulma 
 	    System.out.println("Dizideki en büyük sayýyý binary yöntem ile  bulma");
 		
 		      int[] dizi={712,714,804,2140000000,907,105,506,1044,158885,3,54,2001455455,86,2125488474};

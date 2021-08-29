@@ -1,6 +1,11 @@
 package binarybolme;
 
 public class binarybolme {
+	/*
+	 * Binary sistemdeki sayýmýzýn uzunluðu kaç haneli olursa olsun
+	 * sayýmýzý 5'e bölerek sadece kalan 1 olanlarý kabul edip
+	 * diðerlerini kabül etmeyen program 
+	 */
 
 	public static void main(String[] args) {
 	    String bolunen="100010000100010011100101010101000010";
