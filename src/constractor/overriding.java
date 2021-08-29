@@ -17,7 +17,7 @@ public class overriding extends Person {
 	public static void main(String[] args) {
 		Person over=new overriding();
 		over.talk();
-		over.ka
+		
 
 	}
 
